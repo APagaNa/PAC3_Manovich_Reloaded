@@ -7,14 +7,15 @@
 
 ## Contextualització
 
-En el marc d'aquest document de Git ens inspirarem en les reflexions de *Lev Manovich* sobre la convergència de mitjans, on explorarem dos casos d'hibridació enfocats des del seu llibre "El software toma el mando". Ens centrarem en 2 casos d'hibridació, per una banda, tractarem el joc **Wii Fit** i per l'altra la integració dels **ciborgs** en la societat contemporània. Totes dues representen fenòmens fascinants de convergència, unificant aspectes de la tecnologia i la vida quotidiana. Analitzarem com Wii Fit fusiona el món dels videojocs amb l'exercici físic, creant una experiència única i interactiva, i explorarem com els ciborgs, amb els sistemes tecnològics integrats amb el cos humà, redefineixen les fronteres entre la màquina i la biologia.
+En el marc d'aquest document de Git ens inspirarem en les reflexions de *Lev Manovich* sobre l'hibridació de dos casos recents,  estarem enfocats des del seu llibre "El software toma el mando". Ens centrarem en 2 casos d'hibridació, per una banda, tractarem el joc **Wii Fit** i per l'altra la integració dels **ciborgs** en la societat contemporània. Totes dues representen fenòmens fascinants de convergència, unificant aspectes de la tecnologia i la vida quotidiana. Analitzarem com Wii Fit fusiona el món dels videojocs amb l'exercici físic, creant una experiència única i interactiva, i explorarem com els ciborgs, amb els sistemes tecnològics integrats amb el cos humà, redefineixen les fronteres entre la màquina i la biologia.
 
 # Wii Fit: La hibridació de videojocs i exercici Físic
 
-Wii Fit representa la hibridació entre el món de l'entreteniment digital i la incentivació d'un estil de vida saludable. Aquest videojoc de Nintendo dissenyat per a la consola Wii transforma l'activitat física en una experiència interactiva i lúdica.  Inspirats per la visió de *Lev Manovich* sobre la transformació de mitjans, explorarem com Wii Fit fusiona la tecnologia dels videojocs amb l'exercici físic i proporciona una experiència única i atractiva per als usuaris.
+Wii Fit representa la hibridació entre el món de l'entreteniment digital i la incentivació d'un estil de vida saludable. Aquest videojoc de Nintendo dissenyat per a la consola Wii transforma l'activitat física en una experiència interactiva i lúdica.  Inspirats per la visió de *Lev Manovich* sobre la transformació de mitjans, explorarem com Wii Fit fusiona la tecnologia dels videojocs amb l'exercici físic i proporciona una experiència única i atractiva per als usuaris.   
 
 >![GIF de gameplay Wii Fit](https://i.makeagif.com/media/12-10-2016/xLvi2t.gif)
 
+*"Per nosaltres a Nintendo, Wii Fit no va ser només un joc; va ser una invitació a canviar la manera com entenem el joc i l'activitat física." (Shigeru Miyamoto, 2009)*
 
 ## Tecnologia de Moviment
 
@@ -28,7 +29,7 @@ A través d'aquesta tecnologia, el videojoc no només proporciona entreteniment,
 
 *Manovich* descriu la hibridació com la barreja de diferents mitjans per crear nous formats i significats. En aquest context, Wii Fit utilitza la tecnologia de moviment per introduir als jugadors en diversos escenaris d'activitats interactives i divertides que van més enllà dels límits tradicionals dels videojocs. Aquesta integració de tecnologia i exercici físic no només proporciona entreteniment sinó que també crea una nova forma atractiva de trctar amb la pròpia salut.
 
-D'altra banda, *Manovich* destaca la importància de la participació de la comunitat i la creació col·lectiva. En el cas de Wii Fit, a través de les funcions com la pesada diària i els tests físics, es fomenta la participació activa dels usuaris en el seu benestar físic. El joc es converteix en una eina col·lectiva que permet als jugadors contribuir a la seva pròpia millora física i, al mateix temps, ser part d'una comunitat més gran d'entusiastes de la salut.
+D'altra banda, *Manovich* destaca la importància de la participació de la comunitat i la creació col·lectiva. En el cas de Wii Fit, a través de les funcions com el pesatge diari i els tests físics, es fomenta la participació activa dels usuaris en el seu benestar físic. El joc es converteix en una eina col·lectiva que permet als jugadors contribuir a la seva pròpia millora física i, al mateix temps, ser part d'una comunitat més gran d'entusiastes de la salut.
 
 ## L'impacte actiu
 
@@ -42,11 +43,13 @@ En el context de la cultura digital, la hibridació dels cíborgs emergeix com u
 
 >
 ![Imatge de Neil Harbisson](https://img.ccma.cat/multimedia/jpg/6/4/1498175054246.jpg)
+*"Ser un cíborg no és només afegir tecnologia al cos; és obrir noves dimensions de percepció i comprensió. La tecnologia no ens limita, ens allibera per explorar les fronteres del que significa ésser humà". (Neil Harbisson)*
+
 ## Integració tecnològica amb el cos
 
 Els ciborgs representen l'unió d'elements tecnològics i biològics.  Aquesta integració es manifesta mitjançant **implants, pròtesis i dispositius** que milloren les capacitats humanes.  La tecnologia, en aquest cas, actua com una extensió del cos, cosa que permet noves formes d'interacció i experiència. 
 
-La presència de ciborgs a la nostra societat comporta canvis culturals que van més enllà de la mera integració de dispositius.  L'acceptació i normalització de l'integració de tecnologia al cos humà desafien la concepció de la identitat i la singularitat, posant en dubte aixi l'humanitat dels usuaris cíborgs.  La cultura ciborg no només redefineix la relació entre humans i tecnologia, sinó que també planteja preguntes sobre la individualitat i la diversitat, la cual s'esta popularitzant cada cop més entre les noves generacions.
+La presència de ciborgs a la nostra societat comporta canvis culturals que van més enllà de la integració de dispositius.  L'acceptació i normalització de l'integració de tecnologia al cos humà desafien la concepció de la identitat i la singularitat, posant en dubte aixi l'humanitat dels usuaris cíborgs.  La cultura ciborg no només redefineix la relació entre humans i tecnologia, sinó que també planteja preguntes sobre la individualitat i la diversitat, la cual s'esta popularitzant cada cop més entre les noves generacions.
 
 >![Imatge de braç de ciborg online ](https://cloudfront-us-east-1.images.arcpublishing.com/semana/K4IT6XYRPFDMVA5S72H45J7JNA.jpg)
 
@@ -58,7 +61,7 @@ A mesura que la hibridació ciborg es converteix en una realitat cada cop més c
 
 ## Impacte en la identitat i la comunitat
 
-En el context de la visió de *Manovich* sobre la hibridació cultural, les comunitats ciborg emergeixen com un exemple de la fusió entre la tecnologia i la identitat. La cultura ciborg no sols afecta la identitat de la persona, sinó que també contribueix a la formació de comunitats bastant particulars.  La connexió compartida a través d'experiències ciborg crea una xarxa que transcendeix les barreres físiques i geogràfiques.  Aquest sentit de comunitat contribueix a construir una cultura ciborg globalitzada.
+En el context de la visió de *Manovich* sobre la hibridació cultural, les comunitats ciborg emergeixen com un exemple de la fusió entre la tecnologia i la identitat. La cultura ciborg no sols afecta a la identitat de la persona, sinó que també contribueix a la formació de comunitats bastant particulars.  La connexió compartida a través d'experiències ciborg crea una xarxa que transcendeix les barreres físiques i geogràfiques.  Aquest sentit de comunitat contribueix a construir una cultura ciborg globalitzada.
 
 *Manovich* destaca com la hibridació cultural implica la combinació i la mescla de diversos elements.  En el cas de les comunitats ciborg, aquest amalgama es manifesta en la intersecció entre la biologia humana i les tecnologies integrades.  A través de plataformes en línia i esdeveniments caracteristics. Aquestes persones, si es que ho podem dir aixi, troben un terreny comú on comparteixen no només els avenços tècnics, sinó també les transformacions personals i socials que sorgeixen de la hibridació.
 
