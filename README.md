@@ -3,7 +3,7 @@
 >Per Aleix Pagà Navarro
 18 de desembre del 2023
 
-"foto hibridacio"
+
 
 ## Contextualització
 
@@ -12,8 +12,8 @@ En el marc d'aquest document de Git ens inspirarem en les reflexions de *Lev Man
 # Wii Fit: La hibridació de videojocs i exercici Físic
 
 Wii Fit representa la hibridació entre el món de l'entreteniment digital i la incentivació d'un estil de vida saludable. Aquest videojoc de Nintendo dissenyat per a la consola Wii transforma l'activitat física en una experiència interactiva i lúdica.  Inspirats per la visió de *Lev Manovich* sobre la transformació de mitjans, explorarem com Wii Fit fusiona la tecnologia dels videojocs amb l'exercici físic i proporciona una experiència única i atractiva per als usuaris.
->
-![GIF de gameplay Wii Fit](https://i.makeagif.com/media/12-10-2016/xLvi2t.gif)
+
+>![GIF de gameplay Wii Fit](https://i.makeagif.com/media/12-10-2016/xLvi2t.gif)
 
 
 ## Tecnologia de Moviment
@@ -39,6 +39,7 @@ Aquest cas d'hibridació no només reflecteix l'evolució dels videojocs, sinó 
 # Cíborgs: Hibridació d'evolució humana
 
 En el context de la cultura digital, la hibridació dels cíborgs emergeix com un fenomen que redefineix les fronteres entre la biologia humana i la tecnologia.  La integració de la tecnologia amb el cos humà no sols és capaç de transformar l'experiència individual, sinó que també té implicacions culturals i socials que han alterat la percepció que teníem dels éssers humans.
+
 >
 ![Imatge de Neil Harbisson](https://img.ccma.cat/multimedia/jpg/6/4/1498175054246.jpg)
 ## Integració tecnològica amb el cos
@@ -47,7 +48,7 @@ Els ciborgs representen l'unió d'elements tecnològics i biològics.  Aquesta i
 
 La presència de ciborgs a la nostra societat comporta canvis culturals que van més enllà de la mera integració de dispositius.  L'acceptació i normalització de l'integració de tecnologia al cos humà desafien la concepció de la identitat i la singularitat, posant en dubte aixi l'humanitat dels usuaris cíborgs.  La cultura ciborg no només redefineix la relació entre humans i tecnologia, sinó que també planteja preguntes sobre la individualitat i la diversitat, la cual s'esta popularitzant cada cop més entre les noves generacions.
 
-![Imatge de braç de ciborg online ](https://cloudfront-us-east-1.images.arcpublishing.com/semana/K4IT6XYRPFDMVA5S72H45J7JNA.jpg)
+>![Imatge de braç de ciborg online ](https://cloudfront-us-east-1.images.arcpublishing.com/semana/K4IT6XYRPFDMVA5S72H45J7JNA.jpg)
 
 ## Etica de creació dels ciborgs
 
@@ -66,4 +67,4 @@ En el context de la visió de *Manovich* sobre la hibridació cultural, les comu
 - "**Análisis de  Wii Fit  (Wii)**" (Daniel Escandell 24/4/2008) Vandal [En linia] https://vandal.elespanol.com/analisis/wii/wii-fit/6211#p-43
 - "**Cíborg**" Wikipedia.org [En linia] https://es.wikipedia.org/wiki/Cíborg
 - "**Cada vez hay más "cyborgs humanos" caminando por el mundo. Su problema no es la ciencia: es la ley**" (Javier Jiménez) Xatka  [En linia] https://www.xataka.com/medicina-y-salud/cada-vez-hay-cyborgs-humanos-caminando-mundo-su-problema-no-ciencia-ley
--"**Fundación Cyborg**" Wikipedia.org [En linia] https://es.wikipedia.org/wiki/Fundación_Cyborg
+- "**Fundación Cyborg**" Wikipedia.org [En linia] https://es.wikipedia.org/wiki/Fundación_Cyborg
